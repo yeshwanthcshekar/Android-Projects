@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="amphibians">Amphibians</string>
+    <string name="dummyDescription">This keyword restricts the possible implementations of the interface to only those defined within the same file. This provides compile-time safety and makes when expressions exhaustive. In other words, the compiler knows all possible states and can warn you if you don\'t handle them all in a when statement.</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="scrambledWord">scrambleun</string>
+    <string name="enter_your_word_here">Enter your word here</string>
+    <string name="wrong_guess">Wrong Guess!</string>
+    <string name="play_again">Play Again</string>
+    <string name="congratulations">Congratulations!!</string>
+</resources>
